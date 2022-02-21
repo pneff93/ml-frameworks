@@ -1,11 +1,13 @@
 # Tensorflow
 
-This repository serves of a playground to work with Neural Networks based on the
+This repository serves as a playground to work with Neural Networks based on the
 [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/about/) package.
 Basically, we develop a Neural Network to predict the movie rating based on a review 
 ([dataset from IMDB](https://keras.io/datasets/#imdb-movie-reviews-sentiment-classification)).
 
 Implementation of the model is based on this [kaggle tutorial](https://www.kaggle.com/divyansh22/imdb-beginner-sentiment-analysis).
+
+We use Python 3.8
 
 # Testing
 Run tests for prediction via: 

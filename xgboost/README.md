@@ -1,6 +1,6 @@
 # XGBoost
 
-This repository serves a playground with the [XGBoost](https://xgboost.readthedocs.io/en/stable/) package. The task is to predict
+This repository serves as a playground for the [XGBoost](https://xgboost.readthedocs.io/en/stable/) package. The task is to predict
 the tip of a taxi ride based on several columns, see [data](data/data.csv). 
 
 We developed several functions executable via CLI as well as a REST API within a docker container.
