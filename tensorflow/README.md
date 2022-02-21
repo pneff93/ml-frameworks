@@ -9,13 +9,13 @@ Implementation of the model is based on this [kaggle tutorial](https://www.kaggl
 
 We use Python 3.8
 
-# Testing
+## Testing
 Run tests for prediction via: 
 
 ```
 python3 -m pytest
 ```
-# Rest API
+## Rest API
 
 We build a Docker image and run it to test the REST API:
 
