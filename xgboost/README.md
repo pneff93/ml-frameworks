@@ -71,3 +71,11 @@ In the shell, we receive a URL to which we can send our request: `<URL>/predicti
 Here an example request via RESTer:
 
 ![](getRequest.jpg)
+
+## Possible Optimizations
+Currently, we do a train test split. A possible optimization might be training the model
+via cross validation.
+Moreover, using a grid search to test several parameter combinations would also be a good
+improvement. 
+
+This [tutorial](https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f) serves as a great guideline.
