@@ -1,4 +1,4 @@
 tensorflow~=2.11.1
 numpy~=1.22.2
-keras~=2.8.0
+keras~=2.13.1rc0
 Flask~=2.2.5
